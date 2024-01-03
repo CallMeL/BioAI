@@ -54,7 +54,7 @@ export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback/'
 ./myenv/bin/python web_demo.py
 ```
 
-When web_demo.py is running, it should automatically open 127.0.0.1 in your defult browser . Check the `spotify` in `Tolls provided` and input questions in the textfield.![Webdemo](/Users/chenxi/Downloads/BioAI/Webdemo.png)
+When web_demo.py is running, it should automatically open 127.0.0.1 in your defult browser . Check the `spotify` in `Tolls provided` and input questions in the textfield.![Webdemo](./Webdemo.png)
 
 ### Other tools
 
